@@ -1,5 +1,5 @@
 ﻿program lr_1_2;
-var e,x,f:real;
+var x,f:real;
 begin
   writeln(' Введём значение x = ');
   readln(x);
